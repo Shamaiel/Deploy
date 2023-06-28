@@ -1,0 +1,23 @@
+{
+    "todo": [
+      {
+        "batch": "ptweb",
+        "roll no": 34
+      }
+    ],
+    "comment": [
+      {
+        "username": "JohnDoe",
+        "comment": "This is a sample comment."
+      }
+    ],
+    "profile": [
+      {
+        "name": "Alice",
+        "age": 25,
+        "occupation": "Software Engineer"
+      }
+    ]
+  }
+
+  
